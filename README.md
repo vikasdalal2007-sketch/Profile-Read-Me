@@ -1,10 +1,14 @@
-# Profile-Read-Me
-About me 
-I am largely a destroyer of things mostly electronics. I have had a long curiosity to see things and how they work.
-Since August 2025 i have set up a lab where i largely learn arduino and make things. I started with arduino uno and only recently have used esp32 supermini a couple of times.
-There is no factory making involved, i salvage components from old parts and see if they can be used in any of my projects. As for the components as for other materials.
+# Welcome to the Lab 🔬
 
-I am comfortable working with wood, metal and dremel. Special soft spot is reserved for leds and motors, in particular servo motors. 
-I have no background in CSE or Electrical/ Electronics Engineering. I use Ai in rapid collaborative mode to create, iterate and debug code. 
+I am a system designer and kinetic artist driven by a long curiosity to see how things work under the hood. 
 
-I think of myself of more as a system designer rather than a syntax or engineering expert. 
+### 🛠️ The Philosophy: Salvage & Build
+* **The Process:** I am largely a destroyer of things—mostly electronics. I salvage components from old devices and materials to see how they can be repurposed into new, physical projects. 
+* **The Bench:** No factory manufacturing or 3D printing involved. Every prototype is hand-crafted at the bench using wood, metal, drills, and a Dremel. I have a major soft spot for **LEDs** and **Servo Motors**.
+
+### 🤖 The Stack & AI Collaboration
+* **Hardware:** Began my journey in August 2025 with the *Arduino Uno*, and recently expanded into deploying *ESP32 Supermini* development boards.
+* **Software:** I have no formal background in Computer Science or Electrical Engineering. Instead, I operate as a **System Designer**, utilizing AI in a rapid, collaborative mode to write, iterate, and debug Python and Arduino code.
+
+---
+*Mapping organic geometry and fluid paths at the intersection of raw hand-tools and modern AI computing.*
