@@ -5,3 +5,6 @@ Since August 2025 i have set up a lab where i largely learn arduino and make thi
 There is no factory making involved, i salvage components from old parts and see if they can be used in any of my projects. As for the components as for other materials.
 
 I am comfortable working with wood, metal and dremel. Special soft spot is reserved for leds and motors, in particular servo motors. 
+I have no background in CSE or Electrical/ Electronics Engineering. I use Ai in rapid collaborative mode to create, iterate and debug code. 
+
+I think of myself of more as a system designer rather than a syntax or engineering expert. 
